@@ -75,7 +75,7 @@ want to manage.
 
 An example could be the following:
 
-.. image:: images\\process_example.jpg
+.. image:: images/process_example.jpg
    :scale: 50 %
    :align: center
 
@@ -90,7 +90,7 @@ powered througn windmills installed nearby your production plant.
 
 You pick, for instance one 'process' with this information profile:
 
-.. image:: images\\process_example2.jpg
+.. image:: images/process_example2.jpg
    :scale: 50 %
    :align: center
 
@@ -102,7 +102,7 @@ This 'process' is inside COLCA. Everyday COLCA is executed automatically.
 For each 'process' COLCA checks the weather forecast, meteo conditions, inspect websites for
 purchasing elements (if it is needed) at the best possible price, and evaluates CO2 emissions.
 
-.. image:: images\\daily_routine.jpg
+.. image:: images/daily_routine.jpg
    :scale: 50 %
    :align: center
 
@@ -110,7 +110,7 @@ purchasing elements (if it is needed) at the best possible price, and evaluates 
 After all this work, COLCA updates the status of each 'process', giving new orders to the
 'process' and with calculation of the CO2 emissions and its costs (penalty).
 
-.. image:: images\\daily_updating.jpg
+.. image:: images/daily_updating.jpg
    :scale: 50 %
    :align: center
 
