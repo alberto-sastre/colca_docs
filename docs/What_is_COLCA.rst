@@ -7,7 +7,7 @@ different, it is powered through a solar panel. So, you have a solar water pump.
 with this solar system is to have running water at a very low cost and with almost no CO2
 emissions. Great!
 
-.. image:: images\\solar_water_pump.jpg
+.. image:: images/solar_water_pump.jpg
    :scale: 50 %
    :align: center
 
